@@ -1,5 +1,5 @@
 """
-This test case will check if the total number of instances launched and terminated today.
+This test case will print will the total no of instances launched and terminated today.
 """
 
 import pytest
